@@ -1,5 +1,5 @@
 # Rats!
-Rats! is a 1996 2D platform video game developed by Tarantula Studios, published by Take-Two Interactive Software in the France, Germany, and the United Kingdom for Game Boy and Game Boy Color on 30 December 1998 under the title Reservoir Rat.
+Rats! is a 1996 2D video game developed by Tarantula Studios, published by Take-Two Interactive Software in the France, Germany, and the United Kingdom for Game Boy and Game Boy Color on 30 December 1998 under the title Reservoir Rat.
 
 ## Overview
 This project is a complete remake of the game Rats! created as part of a module taught at Swansea University, all participants can be found below.
