@@ -48,9 +48,6 @@ The features of this program:
   * Simple and nice-looking.
   * Easy to use.
 
-## Watch Game
-You can view a video of this game [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 ## Contributor(s) (In Order)
 * [Dafydd Maund](https://github.com/Stryzhh)
 * [Dawid Wisniewski](https://github.com/SnickyBicky)
