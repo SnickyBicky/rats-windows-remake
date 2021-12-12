@@ -4,6 +4,8 @@ Rats! is a 1996 2D video game developed by Tarantula Studios, published by Take-
 ## Overview
 This project is a complete remake of the game Rats! created as part of a module taught at Swansea University, all participants can be found below.
 
+https://user-images.githubusercontent.com/77579503/145727968-7b118946-d50d-44c8-abf8-97a66b687ebe.mp4
+
 ## Features
 The features of this program:
 
