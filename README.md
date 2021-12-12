@@ -48,6 +48,29 @@ The features of this program:
   * Simple and nice-looking.
   * Easy to use.
 
+## How to run
+How to run our RATS JavaFX application
+
+>>>Run through IntelliJ IDE (https://www.jetbrains.com/idea/):
+
+Step 1: Import the project into your IDE. File > New From Existing Sources, then select the source folder, and make sure the libraries are ticked. 
+
+Step 2: Once project is loaded navigate to the Main class (usually named Main.java but is the class that includes main method).
+
+Step 3: Now you need to edit run configuration, this is usually found by navigating to the Run tab at the top of the IDE, then clicking edit configurations.
+
+Step 4: Now you should see a VM options bar, if not click option then “Add VM options”, in the VM options box paste in the following:
+--module-path "JFX" --add-modules javafx.controls,javafx.fxml
+Replace “JFX” with a path to your javaFX (v17.0.1) lib folder. 
+For example: C:\Users\UserName\JavaPlugins\javafx-sdk-17.0.1\lib
+
+Step 5: You’re done! Just run the program. If it will not run, libraries might need to be set up manually, go to step 5.1.
+
+	Step 5.1: Library might need to be set up, in your IDE, go to file>project structure>libraries and press the plus icon, then add the project’s library (rats-windows-remake\lib).
+
+	Step 5.2: Navigate to the top left and click open project, once opened find location of the project click on the project folder and click open.
+
+
 ## Contributor(s) (In Order)
 * [Dafydd Maund](https://github.com/Stryzhh)
 * [Dawid Wisniewski](https://github.com/SnickyBicky)
